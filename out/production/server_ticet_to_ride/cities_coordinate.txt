@@ -1,0 +1,14 @@
+Minsk,408,372
+Gomel,690,640
+Brest,99,636
+Grodno,87,435
+Vitebsk,604,200
+Mogilev,762,371
+Mosyr,612,678
+Zhidkovichi,478,633
+Soligorsk,414,458
+DavidTown,326,665
+Volkovysk,119,482
+Orsha,647,256
+Bobruisk,661,444
+Molodechno,367,270
